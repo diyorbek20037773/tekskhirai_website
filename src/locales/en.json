@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "features": "Features",
+    "how": "How it works",
+    "demo": "Demo",
+    "ways": "Get started",
+    "team": "Team",
+    "cta": "Get started"
+  },
+  "hero": {
+    "badge": "AI-powered education",
+    "title": "Grade homework",
+    "titleAccent": "in seconds",
+    "subtitle": "TekshirAI photographs a student's notebook, AI grades every problem step by step and explains the mistake. Teachers, parents and directors see results in real time.",
+    "ctaTelegram": "Via Telegram",
+    "ctaPwa": "Open in browser",
+    "scrollHint": "Scroll down",
+    "stat1": "subjects",
+    "stat2": "grades",
+    "stat3": "districts"
+  },
+  "problem": {
+    "badge": "The problem",
+    "title": "Grading homework by hand is outdated",
+    "subtitle": "One teacher checks hundreds of notebooks. There's never enough time, mistakes slip through, and students get feedback too late.",
+    "items": [
+      { "title": "Slow and exhausting", "desc": "Checking every notebook by hand takes hours." },
+      { "title": "Parents are in the dark", "desc": "Where a child struggles stays invisible to parents." },
+      { "title": "Late feedback", "desc": "Students learn of mistakes days later and have already forgotten." },
+      { "title": "No single view", "desc": "Directors can't see the overall picture across the school." }
+    ]
+  },
+  "how": {
+    "badge": "How it works",
+    "title": "Ready in three steps",
+    "subtitle": "No complex setup. Take a photo — the AI does the rest.",
+    "steps": [
+      { "n": "01", "title": "Take a photo", "desc": "The student photographs their completed homework on a phone." },
+      { "n": "02", "title": "AI checks it", "desc": "Google Gemini reads every problem and grades the solution step by step." },
+      { "n": "03", "title": "Result & explanation", "desc": "Score, where the mistake is, the correct solution and a real-life example — instantly." }
+    ]
+  },
+  "features": {
+    "badge": "Features",
+    "title": "One platform — everything",
+    "subtitle": "From student to director — real value for everyone.",
+    "items": [
+      { "title": "AI homework checking", "desc": "Problem-by-problem grading across 14 subjects, step explanations and real-life examples." },
+      { "title": "Gamification", "desc": "XP, 7 levels, daily streaks and badges — turns learning into a game." },
+      { "title": "3D interactive lessons", "desc": "3D models controlled by hand gestures (MediaPipe) — anatomy, atoms, the cosmos." },
+      { "title": "Role dashboards", "desc": "Dedicated dashboards and analytics for student, teacher, parent and director." },
+      { "title": "Biometric login", "desc": "Secure, fast sign-in with Face ID / fingerprint (WebAuthn)." },
+      { "title": "GPS auto-detect", "desc": "14 regions, 203 districts — location detected automatically via GPS." }
+    ]
+  },
+  "demo": {
+    "badge": "Demo",
+    "title": "See the project in action",
+    "subtitle": "A short video of how TekshirAI works."
+  },
+  "ways": {
+    "badge": "Get started",
+    "title": "Use it two ways",
+    "subtitle": "Telegram bot or browser — pick what suits you. Same account either way.",
+    "telegram": {
+      "title": "Telegram mini app",
+      "desc": "A full app inside the bot, without leaving Telegram.",
+      "steps": [
+        "Open the bot and tap /start",
+        "Share your phone number",
+        "Tap the \"Open app\" button"
+      ],
+      "cta": "Open the bot"
+    },
+    "pwa": {
+      "title": "Browser / PWA",
+      "desc": "On any device — phone, tablet, computer. Install to your home screen.",
+      "steps": [
+        "Open the site in your browser",
+        "Sign up with a username and password",
+        "\"Install\" — add to your home screen"
+      ],
+      "cta": "Open the app"
+    }
+  },
+  "stats": {
+    "badge": "By the numbers",
+    "title": "Nationwide across Uzbekistan",
+    "items": [
+      { "value": 14, "suffix": "", "label": "regions covered" },
+      { "value": 203, "suffix": "", "label": "districts & cities" },
+      { "value": 14, "suffix": "", "label": "school subjects" },
+      { "value": 11, "suffix": "", "label": "grades (1–11)" }
+    ]
+  },
+  "tech": {
+    "badge": "How it's built",
+    "title": "Modern technology",
+    "subtitle": "A reliable, fast and scalable architecture."
+  },
+  "team": {
+    "badge": "Team",
+    "title": "The team behind the project",
+    "subtitle": "The people who built TekshirAI.",
+    "roles": {
+      "ceo": "Chief Executive Officer",
+      "business": "Business Development",
+      "cyber": "Cybersecurity Engineer",
+      "ml": "ML Engineer",
+      "fullstack": "Full-stack Developer"
+    }
+  },
+  "footer": {
+    "tagline": "Quality feedback for every student, powered by AI.",
+    "madeIn": "Made with love in Uzbekistan",
+    "product": "Product",
+    "links": "Links",
+    "rights": "All rights reserved."
+  }
+}

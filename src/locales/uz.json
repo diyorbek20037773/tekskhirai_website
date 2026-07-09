@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "features": "Imkoniyatlar",
+    "how": "Qanday ishlaydi",
+    "demo": "Demo",
+    "ways": "Foydalanish",
+    "team": "Jamoa",
+    "cta": "Boshlash"
+  },
+  "hero": {
+    "badge": "Sun'iy intellekt bilan ta'lim",
+    "title": "Uy vazifani",
+    "titleAccent": "soniyalarda tekshiring",
+    "subtitle": "TekshirAI — o'quvchi daftarini suratga oladi, sun'iy intellekt har bir masalani qadam-baqadam baholaydi, xatoni tushuntiradi. O'qituvchi, ota-ona va direktor natijani jonli ko'radi.",
+    "ctaTelegram": "Telegram orqali",
+    "ctaPwa": "Brauzerda ochish",
+    "scrollHint": "Pastga suring",
+    "stat1": "fan",
+    "stat2": "sinf",
+    "stat3": "tuman"
+  },
+  "problem": {
+    "badge": "Muammo",
+    "title": "Uy vazifasini qo'lda tekshirish — eskirgan usul",
+    "subtitle": "Bir o'qituvchi yuzlab daftarni tekshiradi. Vaqt yetmaydi, xatolar o'tib ketadi, o'quvchi kech fikr-mulohaza oladi.",
+    "items": [
+      { "title": "Sekin va charchatuvchi", "desc": "Har bir daftarni qo'lda tekshirish soatlab vaqt oladi." },
+      { "title": "Ota-ona bilmaydi", "desc": "Farzandi qayerda qiynalyapti — ota-onaga ko'rinmaydi." },
+      { "title": "Kech fikr-mulohaza", "desc": "O'quvchi xatosini kunlar keyin biladi, esidan chiqadi." },
+      { "title": "Yagona manzara yo'q", "desc": "Direktor maktab bo'yicha umumiy holatni ko'ra olmaydi." }
+    ]
+  },
+  "how": {
+    "badge": "Qanday ishlaydi",
+    "title": "Uch qadamda tayyor",
+    "subtitle": "Murakkab sozlash yo'q. Suratga oling — qolganini AI bajaradi.",
+    "steps": [
+      { "n": "01", "title": "Suratga oling", "desc": "O'quvchi bajargan uy vazifasini telefonda suratga oladi." },
+      { "n": "02", "title": "AI tekshiradi", "desc": "Google Gemini har bir masalani o'qiydi, yechimni qadam-baqadam baholaydi." },
+      { "n": "03", "title": "Natija va tushuntirish", "desc": "Ball, xato qayerda ekani, to'g'ri yechim va real-hayot misoli — bir zumda." }
+    ]
+  },
+  "features": {
+    "badge": "Imkoniyatlar",
+    "title": "Bitta platforma — hamma narsa",
+    "subtitle": "O'quvchidan direktorgacha — har kim uchun alohida qiymat.",
+    "items": [
+      { "title": "AI uy vazifa tekshiruvi", "desc": "14 ta fan bo'yicha masala-masala baholash, qadam tushuntirish va real-hayot misollari." },
+      { "title": "Geymifikatsiya", "desc": "XP, 7 daraja, kunlik streak va nishonlar — o'quvchini o'ynab o'rganishga undaydi." },
+      { "title": "3D interaktiv darslar", "desc": "Qo'l harakati (MediaPipe) bilan boshqariladigan 3D modellar — anatomiya, atom, koinot." },
+      { "title": "Rol dashboardlari", "desc": "O'quvchi, o'qituvchi, ota-ona va direktor uchun alohida panellar va tahlil." },
+      { "title": "Biometrik kirish", "desc": "Face ID / barmoq izi (WebAuthn) bilan xavfsiz va tez kirish." },
+      { "title": "GPS avtomatik aniqlash", "desc": "14 viloyat, 203 tuman — joylashuv GPS orqali avtomatik topiladi." }
+    ]
+  },
+  "demo": {
+    "badge": "Demo",
+    "title": "Loyihani harakatda ko'ring",
+    "subtitle": "Qisqa videoda TekshirAI qanday ishlashini tomosha qiling."
+  },
+  "ways": {
+    "badge": "Foydalanish",
+    "title": "Ikki yo'l bilan ishlating",
+    "subtitle": "Telegram bot yoki brauzer — o'zingizga qulayini tanlang. Ikkovi ham bir xil hisob.",
+    "telegram": {
+      "title": "Telegram mini app",
+      "desc": "Telegramdan chiqmasdan, bot ichida to'liq ilova.",
+      "steps": [
+        "Botni oching va /start bosing",
+        "Telefon raqamni ulashing",
+        "\"Ilovani ochish\" tugmasini bosing"
+      ],
+      "cta": "Botni ochish"
+    },
+    "pwa": {
+      "title": "Brauzer / PWA",
+      "desc": "Istalgan qurilmada — telefon, planshet, kompyuter. Bosh ekranga o'rnating.",
+      "steps": [
+        "Saytni brauzerda oching",
+        "Username va parol bilan ro'yxatdan o'ting",
+        "\"O'rnatish\" — bosh ekranga qo'shing"
+      ],
+      "cta": "Ilovani ochish"
+    }
+  },
+  "stats": {
+    "badge": "Raqamlarda",
+    "title": "O'zbekiston miqyosida",
+    "items": [
+      { "value": 14, "suffix": "", "label": "viloyat qamrovi" },
+      { "value": 203, "suffix": "", "label": "tuman va shahar" },
+      { "value": 14, "suffix": "", "label": "o'quv fani" },
+      { "value": 11, "suffix": "", "label": "sinf (1–11)" }
+    ]
+  },
+  "tech": {
+    "badge": "Qanday qurilgan",
+    "title": "Zamonaviy texnologiyalar",
+    "subtitle": "Ishonchli, tez va kengaytiriladigan arxitektura."
+  },
+  "team": {
+    "badge": "Jamoa",
+    "title": "Loyiha ortidagi jamoa",
+    "subtitle": "TekshirAI ni yaratgan mutaxassislar.",
+    "roles": {
+      "ceo": "Bosh direktor (CEO)",
+      "business": "Biznes rivojlantirish",
+      "cyber": "Kiberxavfsizlik muhandisi",
+      "ml": "ML muhandisi",
+      "fullstack": "Full-stack dasturchi"
+    }
+  },
+  "footer": {
+    "tagline": "AI bilan har bir o'quvchiga sifatli fikr-mulohaza.",
+    "madeIn": "O'zbekistonda mehr bilan yaratilgan",
+    "product": "Mahsulot",
+    "links": "Havolalar",
+    "rights": "Barcha huquqlar himoyalangan."
+  }
+}
