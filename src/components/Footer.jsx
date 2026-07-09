@@ -1,8 +1,18 @@
 import { useTranslation } from 'react-i18next'
-import { Send, Globe, Mail, Heart } from 'lucide-react'
+import { Send, Globe, Mail, Heart, Linkedin, Github, Youtube, Twitter, Megaphone } from 'lucide-react'
 import Reveal from './Reveal'
 import Logo from './Logo'
-import { LINKS } from '../config'
+import { LINKS, SOCIALS } from '../config'
+
+const SOCIAL_ICON = {
+  linkedin: Linkedin,
+  github: Github,
+  telegram: Send,
+  channel: Megaphone,
+  youtube: Youtube,
+  x: Twitter,
+  email: Mail,
+}
 
 export default function Footer() {
   const { t } = useTranslation()
@@ -47,16 +57,23 @@ export default function Footer() {
       <div className="container-x mt-16 border-t border-gray-200 py-10 dark:border-white/10">
         <div className="flex flex-col items-center justify-between gap-6 sm:flex-row">
           <Logo />
-          <div className="flex items-center gap-5">
-            <a href={LINKS.telegram} target="_blank" rel="noopener noreferrer" className="text-gray-400 transition hover:text-primary-500" aria-label="Telegram">
-              <Send className="h-5 w-5" />
-            </a>
-            <a href={LINKS.app} target="_blank" rel="noopener noreferrer" className="text-gray-400 transition hover:text-primary-500" aria-label="App">
-              <Globe className="h-5 w-5" />
-            </a>
-            <a href={`mailto:${LINKS.email}`} className="text-gray-400 transition hover:text-primary-500" aria-label="Email">
-              <Mail className="h-5 w-5" />
-            </a>
+          <div className="flex flex-wrap items-center justify-center gap-2.5">
+            {SOCIALS.map((s) => {
+              const Icon = SOCIAL_ICON[s.key] || Globe
+              return (
+                <a
+                  key={s.key}
+                  href={s.url}
+                  target={s.key === 'email' ? undefined : '_blank'}
+                  rel="noopener noreferrer"
+                  aria-label={s.label}
+                  title={s.label}
+                  className="grid h-10 w-10 place-items-center rounded-xl border border-gray-200 bg-white/60 text-gray-500 transition hover:-translate-y-0.5 hover:border-primary-400 hover:text-primary-600 dark:border-white/10 dark:bg-white/5 dark:text-gray-400 dark:hover:border-primary-400/50 dark:hover:text-primary-300"
+                >
+                  <Icon className="h-5 w-5" />
+                </a>
+              )
+            })}
           </div>
         </div>
         <div className="mt-6 flex flex-col items-center justify-between gap-2 text-xs text-gray-400 sm:flex-row dark:text-gray-500">

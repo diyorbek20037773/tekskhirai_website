@@ -5,9 +5,19 @@ export const LINKS = {
   telegram: 'https://t.me/TekshirAI_bot',
   app: 'https://web-production-f1b9.up.railway.app',
   demoVideoId: 'W4SuE3XCEwM', // youtu.be/W4SuE3XCEwM
-  // TODO(user): kontaktlar
-  email: 'info@tekshirai.uz',
+  email: 'diyorbek20037377@gmail.com',
 }
+
+// Ijtimoiy tarmoqlar (footer "Connect")
+export const SOCIALS = [
+  { key: 'linkedin', label: 'LinkedIn', url: 'https://www.linkedin.com/in/diyorbek-ibragimov-757830338/' },
+  { key: 'github', label: 'GitHub', url: 'https://github.com/diyorbek20037773' },
+  { key: 'telegram', label: 'Telegram', url: 'https://t.me/diyorbek_7377' },
+  { key: 'channel', label: 'Telegram kanal', url: 'https://t.me/diyorbek_ds_7377' },
+  { key: 'youtube', label: 'YouTube', url: 'https://www.youtube.com/@DiyorbekIbragimov7377' },
+  { key: 'x', label: 'X', url: 'https://x.com/Diyorbek7377' },
+  { key: 'email', label: 'Email', url: 'mailto:diyorbek20037377@gmail.com' },
+]
 
 // Jamoa — rasmlar public/team/ da
 export const TEAM = [
