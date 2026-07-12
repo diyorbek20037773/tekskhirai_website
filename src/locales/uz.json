@@ -5,7 +5,8 @@
     "demo": "Demo",
     "ways": "Foydalanish",
     "team": "Jamoa",
-    "cta": "Boshlash"
+    "cta": "Boshlash",
+    "achievements": "Yutuqlar"
   },
   "hero": {
     "badge": "Sun'iy intellekt bilan ta'lim",
@@ -24,10 +25,22 @@
     "title": "Uy vazifasini qo'lda tekshirish — eskirgan usul",
     "subtitle": "Bir o'qituvchi yuzlab daftarni tekshiradi. Vaqt yetmaydi, xatolar o'tib ketadi, o'quvchi kech fikr-mulohaza oladi.",
     "items": [
-      { "title": "Sekin va charchatuvchi", "desc": "Har bir daftarni qo'lda tekshirish soatlab vaqt oladi." },
-      { "title": "Ota-ona bilmaydi", "desc": "Farzandi qayerda qiynalyapti — ota-onaga ko'rinmaydi." },
-      { "title": "Kech fikr-mulohaza", "desc": "O'quvchi xatosini kunlar keyin biladi, esidan chiqadi." },
-      { "title": "Yagona manzara yo'q", "desc": "Direktor maktab bo'yicha umumiy holatni ko'ra olmaydi." }
+      {
+        "title": "Sekin va charchatuvchi",
+        "desc": "Har bir daftarni qo'lda tekshirish soatlab vaqt oladi."
+      },
+      {
+        "title": "Ota-ona bilmaydi",
+        "desc": "Farzandi qayerda qiynalyapti — ota-onaga ko'rinmaydi."
+      },
+      {
+        "title": "Kech fikr-mulohaza",
+        "desc": "O'quvchi xatosini kunlar keyin biladi, esidan chiqadi."
+      },
+      {
+        "title": "Yagona manzara yo'q",
+        "desc": "Direktor maktab bo'yicha umumiy holatni ko'ra olmaydi."
+      }
     ]
   },
   "how": {
@@ -35,9 +48,21 @@
     "title": "Uch qadamda tayyor",
     "subtitle": "Murakkab sozlash yo'q. Suratga oling — qolganini AI bajaradi.",
     "steps": [
-      { "n": "01", "title": "Suratga oling", "desc": "O'quvchi bajargan uy vazifasini telefonda suratga oladi." },
-      { "n": "02", "title": "AI tekshiradi", "desc": "Google Gemini har bir masalani o'qiydi, yechimni qadam-baqadam baholaydi." },
-      { "n": "03", "title": "Natija va tushuntirish", "desc": "Ball, xato qayerda ekani, to'g'ri yechim va real-hayot misoli — bir zumda." }
+      {
+        "n": "01",
+        "title": "Suratga oling",
+        "desc": "O'quvchi bajargan uy vazifasini telefonda suratga oladi."
+      },
+      {
+        "n": "02",
+        "title": "AI tekshiradi",
+        "desc": "Google Gemini har bir masalani o'qiydi, yechimni qadam-baqadam baholaydi."
+      },
+      {
+        "n": "03",
+        "title": "Natija va tushuntirish",
+        "desc": "Ball, xato qayerda ekani, to'g'ri yechim va real-hayot misoli — bir zumda."
+      }
     ]
   },
   "features": {
@@ -45,12 +70,30 @@
     "title": "Bitta platforma — hamma narsa",
     "subtitle": "O'quvchidan direktorgacha — har kim uchun alohida qiymat.",
     "items": [
-      { "title": "AI uy vazifa tekshiruvi", "desc": "14 ta fan bo'yicha masala-masala baholash, qadam tushuntirish va real-hayot misollari." },
-      { "title": "Geymifikatsiya", "desc": "XP, 7 daraja, kunlik streak va nishonlar — o'quvchini o'ynab o'rganishga undaydi." },
-      { "title": "3D interaktiv darslar", "desc": "Qo'l harakati (MediaPipe) bilan boshqariladigan 3D modellar — anatomiya, atom, koinot." },
-      { "title": "Rol dashboardlari", "desc": "O'quvchi, o'qituvchi, ota-ona va direktor uchun alohida panellar va tahlil." },
-      { "title": "Biometrik kirish", "desc": "Face ID / barmoq izi (WebAuthn) bilan xavfsiz va tez kirish." },
-      { "title": "GPS avtomatik aniqlash", "desc": "14 viloyat, 203 tuman — joylashuv GPS orqali avtomatik topiladi." }
+      {
+        "title": "AI uy vazifa tekshiruvi",
+        "desc": "14 ta fan bo'yicha masala-masala baholash, qadam tushuntirish va real-hayot misollari."
+      },
+      {
+        "title": "Geymifikatsiya",
+        "desc": "XP, 7 daraja, kunlik streak va nishonlar — o'quvchini o'ynab o'rganishga undaydi."
+      },
+      {
+        "title": "3D interaktiv darslar",
+        "desc": "Qo'l harakati (MediaPipe) bilan boshqariladigan 3D modellar — anatomiya, atom, koinot."
+      },
+      {
+        "title": "Rol dashboardlari",
+        "desc": "O'quvchi, o'qituvchi, ota-ona va direktor uchun alohida panellar va tahlil."
+      },
+      {
+        "title": "Biometrik kirish",
+        "desc": "Face ID / barmoq izi (WebAuthn) bilan xavfsiz va tez kirish."
+      },
+      {
+        "title": "GPS avtomatik aniqlash",
+        "desc": "14 viloyat, 203 tuman — joylashuv GPS orqali avtomatik topiladi."
+      }
     ]
   },
   "demo": {
@@ -87,16 +130,51 @@
     "badge": "Raqamlarda",
     "title": "O'zbekiston miqyosida",
     "items": [
-      { "value": 14, "suffix": "", "label": "viloyat qamrovi" },
-      { "value": 203, "suffix": "", "label": "tuman va shahar" },
-      { "value": 14, "suffix": "", "label": "o'quv fani" },
-      { "value": 11, "suffix": "", "label": "sinf (1–11)" }
+      {
+        "value": 14,
+        "suffix": "",
+        "label": "viloyat qamrovi"
+      },
+      {
+        "value": 203,
+        "suffix": "",
+        "label": "tuman va shahar"
+      },
+      {
+        "value": 14,
+        "suffix": "",
+        "label": "o'quv fani"
+      },
+      {
+        "value": 11,
+        "suffix": "",
+        "label": "sinf (1–11)"
+      }
     ]
   },
   "tech": {
     "badge": "Qanday qurilgan",
     "title": "Zamonaviy texnologiyalar",
     "subtitle": "Ishonchli, tez va kengaytiriladigan arxitektura."
+  },
+  "achievements": {
+    "badge": "Yutuqlar",
+    "title": "Do'ppiX jamoasi yutuqlari",
+    "subtitle": "Milliy va xalqaro miqyosda tan olingan g'oliblar.",
+    "winner": "G'olib",
+    "watchDemo": "Demo videoni ko'rish",
+    "items": {
+      "aiHackathon": {
+        "title": "National AI Hackathon",
+        "rank": "1-o'rin — G'olib",
+        "desc": "\"Do'ppiX\" jamoasi Termizda o'tkazilgan Umummilliy AI Hackathon g'olibi bo'ldi. 500 dan ortiq iqtidorli yosh o'z jamoalari bilan innovatsion AI-yechimlar bo'yicha bellashdi."
+      },
+      "cybershield": {
+        "title": "Cybershield — \"Kelajak muhandislari\"",
+        "rank": "1-o'rin — Xalqaro g'olib",
+        "desc": "Shanxay hamkorlik tashkilotiga a'zo davlatlar ishtirokidagi xalqaro festivalda \"Do'ppiX\" jamoasi O'zbekiston sharafini himoya qilib, faxrli 1-o'rinni qo'lga kiritdi."
+      }
+    }
   },
   "team": {
     "badge": "Jamoa",

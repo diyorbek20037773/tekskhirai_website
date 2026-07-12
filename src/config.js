@@ -26,6 +26,26 @@ export const TEAM = [
   { name: 'Giyosiddin Ubaydullayev', roleKey: 'fullstack', photo: '/team/5.jpg' },
 ]
 
+// Jamoa yutuqlari (hakatonlar) — "Do'ppiX jamoasi"
+export const ACHIEVEMENTS = [
+  {
+    key: 'aiHackathon',
+    image: '/achievements/ai-hackathon.jpg',
+    date: '30.03–03.04.2026',
+    place: 'Termiz',
+    rank: '1',
+    link: null,
+  },
+  {
+    key: 'cybershield',
+    image: '/achievements/cybershield.jpg',
+    date: '2026',
+    place: 'Xalqaro',
+    rank: '1',
+    link: 'https://youtu.be/XyddedqgFs8',
+  },
+]
+
 export const TECH = [
   'FastAPI',
   'React 18',

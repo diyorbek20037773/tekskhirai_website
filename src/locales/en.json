@@ -5,7 +5,8 @@
     "demo": "Demo",
     "ways": "Get started",
     "team": "Team",
-    "cta": "Get started"
+    "cta": "Get started",
+    "achievements": "Achievements"
   },
   "hero": {
     "badge": "AI-powered education",
@@ -97,6 +98,25 @@
     "badge": "How it's built",
     "title": "Modern technology",
     "subtitle": "A reliable, fast and scalable architecture."
+  },
+  "achievements": {
+    "badge": "Achievements",
+    "title": "Do'ppiX team achievements",
+    "subtitle": "Winners recognized at national and international level.",
+    "winner": "Winner",
+    "watchDemo": "Watch the demo video",
+    "items": {
+      "aiHackathon": {
+        "title": "National AI Hackathon",
+        "rank": "1st place — Winner",
+        "desc": "Team \"Do'ppiX\" won the National AI Hackathon held in Termez. Over 500 talented young people competed with their teams to build innovative AI solutions."
+      },
+      "cybershield": {
+        "title": "Cybershield — \"Engineers of the Future\"",
+        "rank": "1st place — International winner",
+        "desc": "At the international festival with SCO member states, team \"Do'ppiX\" defended Uzbekistan's honor and took an honorable 1st place."
+      }
+    }
   },
   "team": {
     "badge": "Team",
