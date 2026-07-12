@@ -54,6 +54,35 @@
       { "title": "GPS auto-detect", "desc": "14 regions, 203 districts — location detected automatically via GPS." }
     ]
   },
+  "audiences": {
+    "badge": "Who it's for",
+    "title": "Real value for every side",
+    "subtitle": "Teacher, student and parent — value for all three.",
+    "teacher": {
+      "role": "For teachers",
+      "points": [
+        "Saves time — instead of grading hundreds of notebooks by hand, AI does it in seconds",
+        "Precise analytics per student: who is struggling and where",
+        "Class-wide overview and weak topics in one place"
+      ]
+    },
+    "student": {
+      "role": "For students",
+      "points": [
+        "An individual approach — exactly where the mistake is, explained step by step",
+        "Instant feedback: results right away, no waiting",
+        "Gamification — learning through play: XP, levels and streaks"
+      ]
+    },
+    "parent": {
+      "role": "For parents",
+      "points": [
+        "Track your child's real knowledge and activity in real time",
+        "See which subjects your child masters best",
+        "Get career (job prediction) recommendations based on their strong subjects"
+      ]
+    }
+  },
   "demo": {
     "badge": "Demo",
     "title": "See the project in action",

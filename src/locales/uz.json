@@ -96,6 +96,35 @@
       }
     ]
   },
+  "audiences": {
+    "badge": "Kim uchun",
+    "title": "Har bir tomon uchun aniq foyda",
+    "subtitle": "O'qituvchi, o'quvchi va ota-ona — uchtala uchun ham alohida qiymat.",
+    "teacher": {
+      "role": "O'qituvchi uchun",
+      "points": [
+        "Vaqt tejaladi — yuzlab daftarni qo'lda tekshirish o'rniga AI soniyalarda baholaydi",
+        "Har bir o'quvchi bo'yicha aniq tahlil: kim qayerda qiynalyapti",
+        "Sinf bo'yicha umumiy manzara va zaif mavzular bir joyda"
+      ]
+    },
+    "student": {
+      "role": "O'quvchi uchun",
+      "points": [
+        "Individual yondashuv — xato aynan qayerda ekani qadam-baqadam tushuntiriladi",
+        "Darhol fikr-mulohaza: kutmasdan, o'sha zahoti natijani biladi",
+        "Geymifikatsiya — XP, daraja va streak bilan o'ynab o'rganadi"
+      ]
+    },
+    "parent": {
+      "role": "Ota-ona uchun",
+      "points": [
+        "Farzandining real, haqiqiy bilimi va harakatini jonli kuzatadi",
+        "Qaysi fanni yaxshi o'zlashtirayotganini ko'radi",
+        "Kuchli fanlariga qarab kasb-hunar (job prediction) bo'yicha tavsiya oladi"
+      ]
+    }
+  },
   "demo": {
     "badge": "Demo",
     "title": "Loyihani harakatda ko'ring",

@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import Problem from './components/Problem'
 import HowItWorks from './components/HowItWorks'
 import Features from './components/Features'
+import Audiences from './components/Audiences'
 import DemoVideo from './components/DemoVideo'
 import TwoWays from './components/TwoWays'
 import Stats from './components/Stats'
@@ -22,6 +23,7 @@ export default function App() {
         <Problem />
         <HowItWorks />
         <Features />
+        <Audiences />
         <DemoVideo />
         <TwoWays />
         <Stats />
