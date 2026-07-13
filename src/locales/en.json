@@ -156,9 +156,25 @@
   "uzc": {
     "badge": "UzCombinator 2026",
     "title": "Why now",
-    "subtitle": "From the 2026–2027 school year, AI is entering the national curriculum. The market is opening — and we built the only solution that actually knows the Uzbek curriculum. ChatGPT doesn't know it and just gives the answer without teaching; we teach.",
+    "subtitle": "From the 2026–2027 school year, AI is entering the national curriculum. The market is opening — and we built a solution fully aligned with the Uzbek curriculum that doesn't just hand over the answer, but teaches.",
     "watch": "Watch the 1-minute video pitch",
     "videoNote": "Shakhobiddin (CEO) & Diyorbek (AI Engineer)",
+    "compare": {
+      "nowTag": "Today",
+      "nowTitle": "Teachers burn out, students never learn their mistakes",
+      "nowPoints": [
+        "Grading homework by hand — nearly half of working hours",
+        "Students repeat the same mistake over and over",
+        "Parents can't see how their child is actually doing"
+      ],
+      "usTag": "With TekshirAI",
+      "usTitle": "Take a photo — the AI does the rest",
+      "usPoints": [
+        "Notebook photo → grading and score in seconds",
+        "Every mistake is isolated and explained in Uzbek",
+        "Aligned with our curriculum — time for teachers, understanding for students, visibility for parents"
+      ]
+    },
     "tractionTitle": "Not a slide — a working product",
     "traction": {
       "beta": { "value": "50+", "label": "Beta users", "sub": "Snap & Check works today" },

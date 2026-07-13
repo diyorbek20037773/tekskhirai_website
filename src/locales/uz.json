@@ -214,9 +214,25 @@
   "uzc": {
     "badge": "UzCombinator 2026",
     "title": "Nega aynan hozir",
-    "subtitle": "2026–2027 o'quv yilidan sun'iy intellekt maktab dasturiga kiritilmoqda. Bozor ochilyapti — biz o'zbek o'quv dasturini biladigan yagona yechimni qurdik. ChatGPT dasturimizni bilmaydi va o'rgatmasdan javob beradi; biz o'rgatamiz.",
+    "subtitle": "2026–2027 o'quv yilidan sun'iy intellekt maktab dasturiga kiritilmoqda. Bozor ochilyapti — biz o'zbek o'quv dasturiga to'liq moslangan, javob berib qo'ya qolmay, o'rgatib boradigan yechimni qurdik.",
     "watch": "1 daqiqalik video pitchni ko'rish",
     "videoNote": "Shaxobiddin (CEO) va Diyorbek (AI muhandisi)",
+    "compare": {
+      "nowTag": "Hozir",
+      "nowTitle": "O'qituvchi charchaydi, o'quvchi xatosini bilmaydi",
+      "nowPoints": [
+        "Uy vazifasini qo'lda tekshirish — ish vaqtining deyarli yarmi",
+        "O'quvchi bir xil xatoni qayta-qayta takrorlaydi",
+        "Ota-ona farzandi qanday o'qiyotganini ko'rmaydi"
+      ],
+      "usTag": "TekshirAI bilan",
+      "usTitle": "Surat oling — qolganini AI qiladi",
+      "usPoints": [
+        "Daftar surati → soniyalarda tekshiruv va baho",
+        "Har bir xato ajratiladi va o'zbekcha tushuntiriladi",
+        "O'quv dasturimizga moslangan — o'qituvchiga vaqt, o'quvchiga tushuncha, ota-onaga ko'rinish"
+      ]
+    },
     "tractionTitle": "Slayd emas — ishlaydigan mahsulot",
     "traction": {
       "beta": { "value": "50+", "label": "Beta foydalanuvchi", "sub": "Snap & Check bugun ishlayapti" },
