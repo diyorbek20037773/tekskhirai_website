@@ -6,7 +6,8 @@
     "ways": "Get started",
     "team": "Team",
     "cta": "Get started",
-    "achievements": "Achievements"
+    "achievements": "Achievements",
+    "uzc": "UzCombinator"
   },
   "hero": {
     "badge": "AI-powered education",
@@ -150,6 +151,19 @@
         "rank": "1st place — International winner",
         "desc": "At the international festival with SCO member states, team \"Do'ppiX\" defended Uzbekistan's honor and took an honorable 1st place."
       }
+    }
+  },
+  "uzc": {
+    "badge": "UzCombinator 2026",
+    "title": "Why now",
+    "subtitle": "From the 2026–2027 school year, AI is entering the national curriculum. The market is opening — and we built the only solution that actually knows the Uzbek curriculum. ChatGPT doesn't know it and just gives the answer without teaching; we teach.",
+    "watch": "Watch the 1-minute video pitch",
+    "videoNote": "Shakhobiddin (CEO) & Diyorbek (AI Engineer)",
+    "tractionTitle": "Not a slide — a working product",
+    "traction": {
+      "beta": { "value": "50+", "label": "Beta users", "sub": "Snap & Check works today" },
+      "hackathon": { "value": "1st", "label": "National AI Hackathon", "sub": "Termez, 2026 · 500+ participants" },
+      "pilot": { "value": "1 school", "label": "Pilot program", "sub": "Starting next school year" }
     }
   },
   "team": {

@@ -23,6 +23,7 @@ export default function Nav() {
     { href: '#features', label: t('nav.features') },
     { href: '#how', label: t('nav.how') },
     { href: '#demo', label: t('nav.demo') },
+    { href: '#uzc', label: t('nav.uzc') },
     { href: '#achievements', label: t('nav.achievements') },
     { href: '#team', label: t('nav.team') },
   ]

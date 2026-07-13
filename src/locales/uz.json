@@ -6,7 +6,8 @@
     "ways": "Foydalanish",
     "team": "Jamoa",
     "cta": "Boshlash",
-    "achievements": "Yutuqlar"
+    "achievements": "Yutuqlar",
+    "uzc": "UzCombinator"
   },
   "hero": {
     "badge": "Sun'iy intellekt bilan ta'lim",
@@ -208,6 +209,19 @@
         "rank": "1-o'rin — Xalqaro g'olib",
         "desc": "Shanxay hamkorlik tashkilotiga a'zo davlatlar ishtirokidagi xalqaro festivalda \"Do'ppiX\" jamoasi O'zbekiston sharafini himoya qilib, faxrli 1-o'rinni qo'lga kiritdi."
       }
+    }
+  },
+  "uzc": {
+    "badge": "UzCombinator 2026",
+    "title": "Nega aynan hozir",
+    "subtitle": "2026–2027 o'quv yilidan sun'iy intellekt maktab dasturiga kiritilmoqda. Bozor ochilyapti — biz o'zbek o'quv dasturini biladigan yagona yechimni qurdik. ChatGPT dasturimizni bilmaydi va o'rgatmasdan javob beradi; biz o'rgatamiz.",
+    "watch": "1 daqiqalik video pitchni ko'rish",
+    "videoNote": "Shaxobiddin (CEO) va Diyorbek (AI muhandisi)",
+    "tractionTitle": "Slayd emas — ishlaydigan mahsulot",
+    "traction": {
+      "beta": { "value": "50+", "label": "Beta foydalanuvchi", "sub": "Snap & Check bugun ishlayapti" },
+      "hackathon": { "value": "1-o'rin", "label": "Milliy AI Hackathon", "sub": "Termiz, 2026 · 500+ ishtirokchi" },
+      "pilot": { "value": "1 maktab", "label": "Pilot dastur", "sub": "Kelasi o'quv yilidan boshlanadi" }
     }
   },
   "team": {

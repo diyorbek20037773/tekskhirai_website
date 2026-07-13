@@ -4,6 +4,7 @@ export const LINKS = {
   telegram: 'https://t.me/TekshirAI_uz_bot',
   app: 'https://web-production-f1b9.up.railway.app',
   demoVideoId: 'W4SuE3XCEwM', // youtu.be/W4SuE3XCEwM
+  uzcVideoId: '9fxn3ApMwRw', // youtu.be/9fxn3ApMwRw — UzCombinator pitch
   email: 'diyorbek20037377@gmail.com',
 }
 

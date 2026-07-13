@@ -9,6 +9,7 @@ import TwoWays from './components/TwoWays'
 import Stats from './components/Stats'
 import Tech from './components/Tech'
 import Achievements from './components/Achievements'
+import UzCombinator from './components/UzCombinator'
 import Team from './components/Team'
 import Footer from './components/Footer'
 import ScrollProgress from './components/ScrollProgress'
@@ -29,6 +30,7 @@ export default function App() {
         <Stats />
         <Tech />
         <Achievements />
+        <UzCombinator />
         <Team />
       </main>
       <Footer />

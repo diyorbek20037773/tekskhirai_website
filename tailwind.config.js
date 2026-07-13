@@ -13,6 +13,7 @@ export default {
         success: { 50: '#ecfdf5', 100: '#d1fae5', 400: '#34d399', 500: '#10b981', 600: '#059669' },
         accent: { 50: '#fffbeb', 100: '#fef3c7', 400: '#fbbf24', 500: '#f59e0b', 600: '#d97706' },
         rose: { 400: '#fb7185', 500: '#f43f5e' },
+        orange: { 400: '#ff8a3d', 500: '#ff6a00', 600: '#e85f00' },
         purple: { 400: '#a78bfa', 500: '#8b5cf6', 600: '#7c3aed' },
         // Dark theme surface
         ink: {
