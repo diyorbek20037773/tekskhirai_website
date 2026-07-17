@@ -10,7 +10,6 @@ export const LINKS = {
 
 // Ijtimoiy tarmoqlar (footer "Connect")
 export const SOCIALS = [
-  { key: 'linkedin', label: 'LinkedIn', url: 'https://www.linkedin.com/in/diyorbek-ibragimov-757830338/' },
   { key: 'telegram', label: 'Telegram', url: 'https://t.me/diyorbek_7377' },
   { key: 'channel', label: 'Telegram kanal', url: 'https://t.me/diyorbek_ds_7377' },
   { key: 'youtube', label: 'YouTube', url: 'https://www.youtube.com/@DiyorbekIbragimov7377' },

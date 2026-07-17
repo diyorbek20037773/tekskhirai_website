@@ -1,11 +1,10 @@
 import { useTranslation } from 'react-i18next'
-import { Send, Globe, Mail, Heart, Linkedin, Github, Youtube, Twitter, Megaphone } from 'lucide-react'
+import { Send, Globe, Mail, Heart, Github, Youtube, Twitter, Megaphone } from 'lucide-react'
 import Reveal from './Reveal'
 import Logo from './Logo'
 import { LINKS, SOCIALS } from '../config'
 
 const SOCIAL_ICON = {
-  linkedin: Linkedin,
   github: Github,
   telegram: Send,
   channel: Megaphone,
