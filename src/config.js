@@ -20,7 +20,7 @@ export const SOCIALS = [
 
 // Jamoa — rasmlar public/team/ da
 export const TEAM = [
-  { name: 'Shohobiddin Najmiddinov', roleKey: 'ceo', photo: '/team/1.jpg' },
+  { name: 'Shaxobiddin Najmiddinov', roleKey: 'ceo', photo: '/team/1.jpg' },
   { name: 'Azizbek Ibragimov', roleKey: 'business', photo: '/team/2.jpg' },
   { name: 'Eldor Musayev', roleKey: 'cyber', photo: '/team/3.jpg' },
   { name: 'Diyorbek Ibragimov', roleKey: 'ml', photo: '/team/4.jpg' },
