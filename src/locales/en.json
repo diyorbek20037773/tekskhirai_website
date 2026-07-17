@@ -136,11 +136,6 @@
     "winner": "Winner",
     "watchDemo": "Watch the demo video",
     "items": {
-      "realHolat": {
-        "title": "Real Holat Hackathon",
-        "rank": "Winner — 80,000,000 UZS grant",
-        "desc": "Team \"Do'ppiX\" won the \"Real Holat\" (Data. Design. Impact) hackathon and received an 80,000,000 UZS Development Grant to grow the project."
-      },
       "aiHackathon": {
         "title": "National AI Hackathon",
         "rank": "1st place — Winner",

@@ -194,11 +194,6 @@
     "winner": "G'olib",
     "watchDemo": "Demo videoni ko'rish",
     "items": {
-      "realHolat": {
-        "title": "Real Holat Hackathon",
-        "rank": "G'olib — 80 000 000 so'm grant",
-        "desc": "\"Do'ppiX\" jamoasi \"Real Holat\" (Data. Design. Impact) hakatonida g'olib bo'lib, loyihani rivojlantirish uchun 80 000 000 so'mlik Development Grant sovrinini qo'lga kiritdi."
-      },
       "aiHackathon": {
         "title": "National AI Hackathon",
         "rank": "1-o'rin — G'olib",

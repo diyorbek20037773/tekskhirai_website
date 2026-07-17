@@ -30,14 +30,6 @@ export const TEAM = [
 // Jamoa yutuqlari (hakatonlar) — "Do'ppiX jamoasi"
 export const ACHIEVEMENTS = [
   {
-    key: 'realHolat',
-    image: '/achievements/real-holat.jpg',
-    date: '2026',
-    place: "O'zbekiston",
-    rank: '1',
-    link: null,
-  },
-  {
     key: 'aiHackathon',
     image: '/achievements/ai-hackathon.jpg',
     date: '30.03–03.04.2026',

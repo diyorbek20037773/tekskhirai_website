@@ -194,11 +194,6 @@
     "winner": "Победитель",
     "watchDemo": "Смотреть демо-видео",
     "items": {
-      "realHolat": {
-        "title": "Real Holat Hackathon",
-        "rank": "Победитель — грант 80 000 000 сум",
-        "desc": "Команда «Do'ppiX» победила на хакатоне «Real Holat» (Data. Design. Impact) и получила Development Grant в размере 80 000 000 сумов на развитие проекта."
-      },
       "aiHackathon": {
         "title": "National AI Hackathon",
         "rank": "1 место — Победитель",
