@@ -8,7 +8,6 @@ import DemoVideo from './components/DemoVideo'
 import TwoWays from './components/TwoWays'
 import Stats from './components/Stats'
 import Tech from './components/Tech'
-import Achievements from './components/Achievements'
 import Team from './components/Team'
 import Footer from './components/Footer'
 import ScrollProgress from './components/ScrollProgress'
@@ -28,7 +27,6 @@ export default function App() {
         <TwoWays />
         <Stats />
         <Tech />
-        <Achievements />
         <Team />
       </main>
       <Footer />
