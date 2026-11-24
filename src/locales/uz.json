@@ -6,8 +6,7 @@
     "ways": "Foydalanish",
     "team": "Jamoa",
     "cta": "Boshlash",
-    "achievements": "Yutuqlar",
-    "uzc": "UzCombinator"
+    "achievements": "Yutuqlar"
   },
   "hero": {
     "badge": "Sun'iy intellekt bilan ta'lim",
@@ -204,35 +203,6 @@
         "rank": "1-o'rin — Xalqaro g'olib",
         "desc": "Shanxay hamkorlik tashkilotiga a'zo davlatlar ishtirokidagi xalqaro festivalda \"Do'ppiX\" jamoasi O'zbekiston sharafini himoya qilib, faxrli 1-o'rinni qo'lga kiritdi."
       }
-    }
-  },
-  "uzc": {
-    "badge": "UzCombinator 2026",
-    "title": "Nega aynan hozir",
-    "subtitle": "2026–2027 o'quv yilidan sun'iy intellekt maktab dasturiga kiritilmoqda. Bozor ochilyapti — biz o'zbek o'quv dasturiga to'liq moslangan, javob berib qo'ya qolmay, o'rgatib boradigan yechimni qurdik.",
-    "watch": "1 daqiqalik video pitchni ko'rish",
-    "videoNote": "Shaxobiddin (CEO) va Diyorbek (AI muhandisi)",
-    "compare": {
-      "nowTag": "Hozir",
-      "nowTitle": "O'qituvchi charchaydi, o'quvchi xatosini bilmaydi",
-      "nowPoints": [
-        "Uy vazifasini qo'lda tekshirish — ish vaqtining deyarli yarmi",
-        "O'quvchi bir xil xatoni qayta-qayta takrorlaydi",
-        "Ota-ona farzandi qanday o'qiyotganini ko'rmaydi"
-      ],
-      "usTag": "TekshirAI bilan",
-      "usTitle": "Surat oling — qolganini AI qiladi",
-      "usPoints": [
-        "Daftar surati → soniyalarda tekshiruv va baho",
-        "Har bir xato ajratiladi va o'zbekcha tushuntiriladi",
-        "O'quv dasturimizga moslangan — o'qituvchiga vaqt, o'quvchiga tushuncha, ota-onaga ko'rinish"
-      ]
-    },
-    "tractionTitle": "Slayd emas — ishlaydigan mahsulot",
-    "traction": {
-      "beta": { "value": "50+", "label": "Beta foydalanuvchi", "sub": "Snap & Check bugun ishlayapti" },
-      "hackathon": { "value": "1-o'rin", "label": "Milliy AI Hackathon", "sub": "Termiz, 2026 · 500+ ishtirokchi" },
-      "pilot": { "value": "1 maktab", "label": "Pilot dastur", "sub": "Kelasi o'quv yilidan boshlanadi" }
     }
   },
   "team": {
