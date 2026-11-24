@@ -16,13 +16,14 @@ export const SOCIALS = [
   { key: 'email', label: 'Email', url: 'mailto:diyorbek20037377@gmail.com' },
 ]
 
-// Jamoa — rasmlar public/team/ da
+// Jamoa (NeoTech) — rasmlar public/team/ da; photo: null bo'lsa bosh harflar ko'rsatiladi
 export const TEAM = [
-  { name: 'Shaxobiddin Najmiddinov', roleKey: 'ceo', photo: '/team/1.jpg' },
-  { name: 'Azizbek Ibragimov', roleKey: 'business', photo: '/team/2.jpg' },
-  { name: 'Eldor Musayev', roleKey: 'cyber', photo: '/team/3.jpg' },
-  { name: 'Diyorbek Ibragimov', roleKey: 'ml', photo: '/team/4.jpg' },
-  { name: 'Giyosiddin Ubaydullayev', roleKey: 'fullstack', photo: '/team/5.jpg' },
+  { name: 'Ibragimov Diyorbek', roleKey: 'techLead', photo: '/team/4.jpg' },
+  { name: 'Nigmanov Erkin', roleKey: 'teacher', photo: null },
+  { name: 'Abdurahmonov Zafar', roleKey: 'designer', photo: null },
+  { name: 'Xalilova Layloxon', roleKey: 'teacher', photo: null },
+  { name: 'Shermamatova Maftuna', roleKey: 'teacher', photo: null },
+  { name: 'Tukhtaeva Aziza', roleKey: 'pm', photo: null },
 ]
 
 // Jamoa yutuqlari (hakatonlar) — "Do'ppiX jamoasi"

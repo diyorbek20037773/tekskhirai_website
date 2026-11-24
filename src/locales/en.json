@@ -148,15 +148,14 @@
     }
   },
   "team": {
-    "badge": "Team",
-    "title": "The team behind the project",
-    "subtitle": "The people who built TekshirAI.",
+    "badge": "NeoTech group",
+    "title": "NeoTech group members",
+    "subtitle": "The team working on TekshirAI.",
     "roles": {
-      "ceo": "Chief Executive Officer",
-      "business": "Business Development",
-      "cyber": "Cybersecurity Engineer",
-      "ml": "ML Engineer",
-      "fullstack": "Full-stack Developer"
+      "techLead": "Tech Lead",
+      "teacher": "Teacher",
+      "designer": "UI/UX Designer",
+      "pm": "Project Manager (PM)"
     }
   },
   "footer": {

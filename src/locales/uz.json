@@ -206,15 +206,14 @@
     }
   },
   "team": {
-    "badge": "Jamoa",
-    "title": "Loyiha ortidagi jamoa",
-    "subtitle": "TekshirAI ni yaratgan mutaxassislar.",
+    "badge": "NeoTech guruhi",
+    "title": "NeoTech guruhi a'zolari",
+    "subtitle": "TekshirAI ustida ishlayotgan jamoa.",
     "roles": {
-      "ceo": "Bosh direktor (CEO)",
-      "business": "Biznes rivojlantirish",
-      "cyber": "Kiberxavfsizlik muhandisi",
-      "ml": "ML muhandisi",
-      "fullstack": "Full-stack dasturchi"
+      "techLead": "Tech Lead",
+      "teacher": "O'qituvchi",
+      "designer": "UI/UX dizayner",
+      "pm": "Loyiha menejeri (PM)"
     }
   },
   "footer": {

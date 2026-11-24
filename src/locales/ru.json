@@ -206,15 +206,14 @@
     }
   },
   "team": {
-    "badge": "Команда",
-    "title": "Команда за проектом",
-    "subtitle": "Специалисты, создавшие TekshirAI.",
+    "badge": "Группа NeoTech",
+    "title": "Участники группы NeoTech",
+    "subtitle": "Команда, работающая над TekshirAI.",
     "roles": {
-      "ceo": "Генеральный директор (CEO)",
-      "business": "Развитие бизнеса",
-      "cyber": "Инженер по кибербезопасности",
-      "ml": "ML-инженер",
-      "fullstack": "Full-stack разработчик"
+      "techLead": "Tech Lead",
+      "teacher": "Учитель",
+      "designer": "UI/UX-дизайнер",
+      "pm": "Проектный менеджер (PM)"
     }
   },
   "footer": {
